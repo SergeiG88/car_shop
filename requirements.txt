@@ -1,0 +1,4 @@
+django[all]
+requests
+rest_framework
+djangorestframework
